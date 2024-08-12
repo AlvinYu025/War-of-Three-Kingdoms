@@ -2,7 +2,7 @@
 
 ### Group 1
 
-### Developer: YU Fengfei-
+### Developer: YU Fengfei
 
 In this group project, I'm in charged of the following codes.
 
